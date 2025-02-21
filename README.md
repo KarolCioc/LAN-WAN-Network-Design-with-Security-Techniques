@@ -8,7 +8,7 @@
 - **HQ SITE:** Hierarchical network with VLAN segmentation and redundancy (HSRP).
 - **BRANCH SITE:** Divided into security zones (IN, OUT, DMZ) with a firewall.
 - **REMOTE SITE:** Wireless segment with WPA2 security and DHCP.
-- **WAN:** Public addressing and routing (BGP/static redistribution).
+- **WAN:** Public addressing and routing (BGP/OSPF).
 
 ![image](https://github.com/user-attachments/assets/b93ef7c6-29ba-4d73-a2ca-17880444b218)
 
